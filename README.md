@@ -1,4 +1,4 @@
-# geometry_working_memory
+# geometry_dynamics_wm
 
 Code of manuscript: Santo-Angles A, Gyurkovics M, Jaworska K, Palva JM, Thut G, Palva S. Working memory operations emerge from dynamic changes in neural subspace geometry. bioRxiv. 2026. Preprint. doi: 10.64898/2026.08.31.748237
 
@@ -6,7 +6,7 @@ To facilitate reproducibility, data is available at the OSF repository. We provi
 
 To run the analyses, download the GitHub repository and place it in path_to_local/scripts, and download the OSF repository and place it in path_to_local/results.
 
-The expected runtime of the entire pipeline is approximately 12 hours, depending on the computational environment and configuration.
+The expected runtime of the entire pipeline is approximately 6-12 hours, depending on the computational environment and configuration.
 
 ## software
 
